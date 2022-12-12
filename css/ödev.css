@@ -1,0 +1,35 @@
+body {background-color: rgb(199, 198, 198);
+    
+}
+
+
+h1 {
+    color:green;
+    font-size: 80px;
+    font-family: 'Rubik Vinyl', cursive;
+
+}
+
+h2 {
+    color:green;
+    font-size: 63px;
+}
+
+h3 {
+    color:green;
+    font-size: 29px;
+}
+
+h4 {
+    color: green;
+    font-size: 29px;
+}
+
+p {
+    font-size: 23px;
+}
+
+li {
+    list-style-position: inside ;
+    font-size: 19px;
+}
